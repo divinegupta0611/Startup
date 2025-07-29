@@ -1,6 +1,6 @@
 import React from 'react';
 import wallpaper from './assets/wallpaper.jpg'; 
-
+import './App.css'
 const App = () => {
   return (
     <div id='container1'>
